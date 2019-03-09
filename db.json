@@ -1,0 +1,14 @@
+{
+  "seleccionar": [
+    {
+      "codigo": "0",
+      "descripcion": "Seleccionar"
+    }
+  ],
+  "todos": [
+    {
+      "codigo": "9",
+      "descripcion": "Todos"
+    }
+  ]
+}
