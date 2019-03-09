@@ -1,4 +1,47 @@
 {
+  "conceptos": [
+    {
+      "id_concepto": "1",
+      "descripcion": "Concepto 1"
+    },
+    {
+      "id_concepto": "2",
+      "descripcion": "Concepto 2"
+    },
+    {
+      "id_concepto": "3",
+      "descripcion": "Concepto 3"
+    },
+    {
+      "id_concepto": "4",
+      "descripcion": "Concepto 4"
+    },
+    {
+      "id_concepto": "5",
+      "descripcion": "Concepto 5"
+    },
+    {
+      "id_concepto": "6",
+      "descripcion": "Concepto 6"
+    },
+    {
+      "id_concepto": "7",
+      "descripcion": "Concepto 7"
+    },
+    {
+      "id_concepto": "8",
+      "descripcion": "Concepto 8"
+    },
+    {
+      "id_concepto": "9",
+      "descripcion": "Concepto 9"
+    },
+    {
+      "id_concepto": "10",
+      "descripcion": "Concepto 10"
+    }
+  ]
+ ,
   "seleccionar": [
     {
       "codigo": "0",
